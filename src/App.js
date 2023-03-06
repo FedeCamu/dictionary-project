@@ -7,7 +7,7 @@ export default function App() {
       <header className="App-header">
         <img src={logo} className="App-logo img-fluid" alt="logo" />
 
-        <a href="#" className="btn btn-primary">
+        <a href="#" className="btn btn-primary" rel="noopener noreferrer">
           Test
         </a>
       </header>
