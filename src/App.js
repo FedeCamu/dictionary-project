@@ -1,14 +1,23 @@
 import logo from "./logo.png";
 import "./App.css";
+import Dictionary from "./Dictionary.js";
+import Footer from "./Footer";
 
 export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo img-fluid" alt="logo" />
+      <div className="container">
+        <header className="App-header">
+          <img src={logo} className="App-logo img-fluid" alt="logo" />
 
-    
-      </header>
+          <h1>Dictionary</h1>
+        </header>
+
+        <main>
+          <Dictionary />
+        </main>
+        <Footer />
+      </div>
     </div>
   );
 }
