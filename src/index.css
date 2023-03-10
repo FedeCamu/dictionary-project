@@ -7,10 +7,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
    background-color: rgba(108, 99, 255, 0.1);
-   /* background-image: url(./background_img.png);
-   background-position: center;
-   background-repeat:no-repeat;
+   background-image: url(./background3.jpg);
+  
+   /* background-repeat:no-repeat;
    background-size: 100%; */
+
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    background-attachment: fixed;
   
   
  

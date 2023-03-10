@@ -41,7 +41,7 @@ export default function Dictionary(props) {
             <label> What word do you want to look up? </label>
             <input
               type="search"
-              placeholder="enter word"
+              placeholder="enter a word"
               onChange={handleKeywordChange}
             />
           </form>

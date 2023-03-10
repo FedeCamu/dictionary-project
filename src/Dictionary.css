@@ -3,7 +3,7 @@
     padding: 40px;
     Margin-top: 30px;
     Margin-bottom: 30px;
-    border-radius: 5px;
+    border-radius: 8px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 
 }
@@ -12,7 +12,7 @@
     width: 100%;
     padding: 10px 15px;
     border: 1px solid;
-    border-radius: 5px;
+    border-radius: 8px;
     border-color:rgb(235, 235, 235);
     font-size: 18px;
     

@@ -36,6 +36,8 @@ export default function Footer() {
           {" "}
           Netlify
         </a>
+        <p>
+        Image by rawpixel.com on Freepik</p>
       </footer>
     </div>
   );
