@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 
    background-color: rgba(108, 99, 255, 0.1);
-   background-image: url(./background3.jpg);
+   background-image: url(../public/background3.jpg);
   
    /* background-repeat:no-repeat;
    background-size: 100%; */
