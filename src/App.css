@@ -8,7 +8,18 @@
   display: block;
   margin: 0 auto;
 
- 
+
+}
+
+
+.App h1 {
+  color: rgb(108, 99, 255);
+  font-family: 'Rampart One', cursive;
+  font-size: 72px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 60px;
+
 }
 
 

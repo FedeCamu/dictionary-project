@@ -1,0 +1,13 @@
+.Phonetics .player {
+  width: 100%;
+  /* margin-bottom: 20px; */
+  display: inline-block;
+}
+
+.Phonetics .text {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(119, 117, 140);
+  margin-left: 30px;
+
+}
